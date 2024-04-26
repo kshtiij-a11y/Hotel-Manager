@@ -1,0 +1,40 @@
+Fried Rice	11.00
+10
+chicken wings	7.50
+10
+chicken popcorn	10.00
+10
+fried chicken	5.00
+10
+Egg curry	    7.00
+10
+Egg Masala	    6.50
+10
+Boiled Egg  	4.00
+10
+Ramen Noodles	5.50
+10
+mutten Curry	4.50
+10
+Chicken curry	7.80
+10
+Veg Curry   	8.50
+10
+Vegetable soup	6.90
+10
+Prawn Fry   	6.80
+10
+Fish fried  	7.50
+10
+Octopus Biryani	6.70
+10
+Squid boiled	5.90
+10
+oyesters	    1.85
+10
+Lobsters	    6.70
+10
+Sake 10ml	5.60
+10
+Sprite 10ml	5.95
+10
